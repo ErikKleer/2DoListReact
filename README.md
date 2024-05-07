@@ -1,4 +1,5 @@
 To run the project
 
-1- npm i
-2- npm run
+1 - npm i
+
+2 - npm start
